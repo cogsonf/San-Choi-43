@@ -1,0 +1,1 @@
+ALTER TABLE player_pairing_form ADD COLUMN matched_with INT; 
